@@ -1,0 +1,21 @@
+
+
+#root {
+    height: 900px;
+    width: 100%;
+    background-color: blue
+}
+
+ body {
+        padding: 20px;
+      }
+      
+.leaflet-container {
+        height:100%;
+        width: 100%;
+        
+}
+
+  .sr-only {
+    display: none;
+  }
